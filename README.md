@@ -5,6 +5,13 @@ An MCP server that connects to your AWS account, finds idle and orphaned resourc
 Works with Claude Desktop and the `claude` CLI via the Model Context Protocol.
 
 ---
+## Video
+
+
+
+https://github.com/user-attachments/assets/ea4d88c5-da93-447b-a86e-219efc694b04
+
+
 ## Stack
 
 Python 3.11+ · boto3 · MCP SDK · Pydantic v2 · Rich · pytest + moto
