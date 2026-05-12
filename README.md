@@ -96,7 +96,6 @@ All scanners are read-only (`describe*`, `list*`, `get*`):
   }]
 }
 ```
-
 For remediation execution add the relevant write permissions (`ec2:DeleteVolume`, `ec2:ReleaseAddress`, `ec2:TerminateInstances`, etc.) scoped as tightly as you need.
 
 ---
